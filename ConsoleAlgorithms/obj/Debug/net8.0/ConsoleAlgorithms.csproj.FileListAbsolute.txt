@@ -1,0 +1,14 @@
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\bin\Debug\net8.0\ConsoleAlgorithms.exe
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\bin\Debug\net8.0\ConsoleAlgorithms.deps.json
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\bin\Debug\net8.0\ConsoleAlgorithms.runtimeconfig.json
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\bin\Debug\net8.0\ConsoleAlgorithms.dll
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\bin\Debug\net8.0\ConsoleAlgorithms.pdb
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.AssemblyInfoInputs.cache
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.AssemblyInfo.cs
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.dll
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\refint\ConsoleAlgorithms.dll
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.pdb
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ConsoleAlgorithms.genruntimeconfig.cache
+C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program+Prezentacja\ConsoleAlgorithms\obj\Debug\net8.0\ref\ConsoleAlgorithms.dll
