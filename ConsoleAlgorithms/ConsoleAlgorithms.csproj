@@ -6,10 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-  
 
   <ItemGroup>
-    <PackageReference Include="BenchmarkDotNet" Version="0.13.12" />
+    <ProjectReference Include="..\AlgorithmsLibrary\AlgorithmsLibrary.csproj" />
   </ItemGroup>
 
 </Project>
