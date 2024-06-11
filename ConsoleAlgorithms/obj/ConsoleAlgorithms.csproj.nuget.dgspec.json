@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program+Prezentacja\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj": {}
+    "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program+Prezentacja\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj": {
+    "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program+Prezentacja\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj",
+        "projectUniqueName": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj",
         "projectName": "ConsoleAlgorithms",
-        "projectPath": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program+Prezentacja\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj",
-        "packagesPath": "C:\\Users\\wkala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program+Prezentacja\\ConsoleAlgorithms\\obj\\",
+        "projectPath": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\ConsoleAlgorithms\\ConsoleAlgorithms.csproj",
+        "packagesPath": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\ConsoleAlgorithms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wkala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Wiktor Kalaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.czk.comarch/repository/edi-nuget/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -44,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
