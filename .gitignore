@@ -4,8 +4,14 @@ ConsoleAlgorithms/.vs
 ConsoleAlgorithms/bin
 ConsoleAlgorithms/obj
 ConsoleAlgorithms/ref
+AlgorithmsInspector/bin
+AlgorithmsInspector/obj
+AlgorithmsInspector/wwwroot
 *.deps.json
 *.dll
 *.exe
 *.pdb
 *.sln
+*.Development.json
+*.json
+*.csproj.user
