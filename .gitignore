@@ -6,7 +6,7 @@ ConsoleAlgorithms/obj
 ConsoleAlgorithms/ref
 AlgorithmsInspector/bin
 AlgorithmsInspector/obj
-AlgorithmsInspector/wwwroot
+AlgorithmsInspector/.vs
 *.deps.json
 *.dll
 *.exe

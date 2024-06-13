@@ -20,5 +20,15 @@ namespace AlgorithmsInspector
         {
             InitializeComponent();
         }
+
+        private void CountFibonacciButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ClearOutputsButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

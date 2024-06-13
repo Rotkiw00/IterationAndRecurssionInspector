@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AlgorithmsInspector"
         mc:Ignorable="d"
-        Title="Inspektor" Height="450" Width="800">
+        Title="Inspektor" Height="800" Width="1300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
         <TabControl Name="algorithmTabScope">
             <TabItem Header="Liczby Fibonacciego" FontSize="18" FontWeight="Medium" >
@@ -14,6 +14,89 @@
                         <ColumnDefinition Width="*"></ColumnDefinition>
                         <ColumnDefinition Width="*"></ColumnDefinition>
                     </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="0">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock TextWrapping="WrapWithOverflow" FontWeight="Normal" Margin="5,5,5,5" Grid.Row="0">
+         Algorytm wyznaczania n-tego wyrazu ciągu Fibonacciego. Porównanie czasów algorytmu rekurencyjnego i iteracyjnego.
+                        </TextBlock>
+
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock TextWrapping="WrapWithOverflow" FontWeight="Normal" Margin="5,5,5,5" Grid.RowSpan="2" TextAlignment="Center" VerticalAlignment="Center">
+                            Dla jakiego [n] chcesz wyznaczyć liczbę w ciągu Fibonacciego ?
+                            </TextBlock>
+                            <Grid Grid.Row="0" Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Label Content="[n] = " FontSize="25" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                                <TextBox Name="inputParametrFibonacciTxt" FontSize="20" FontWeight="Bold" TextAlignment="Center" Grid.Column="1" Margin="5 5 5 5"></TextBox>
+                            </Grid>
+                            <Button Name="CountFibonacciButton" Content="Wyznacz" FontSize="25" FontWeight="Bold" Grid.Row="1"  Grid.Column="1" Background="LightGreen" BorderBrush="Red" BorderThickness="2" Margin="5 0 5 5" Click="CountFibonacciButton_Click"></Button>
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" Margin="0 0 5 5" >Wartość dla n-tego wyrazu ciągu Fibonacciego:</TextBlock>
+                            <TextBox Name="outputResultValueFibonacciTxt" Grid.Column="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+
+                        <Grid Grid.Row="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Suma ciągu Fibonacciego od 1 do n:</TextBlock>
+                            <TextBox Name="outputResultSumFibonacciTxt" Grid.Column="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+
+                        <Grid Grid.Row="5">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu rekurencyjnego:</TextBlock>
+                            <TextBox Name="timeMeasuredRecurssionFibonacciTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+                        <Grid Grid.Row="6">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu iteracyjnego:</TextBlock>
+                            <TextBox Name="timeMeasuredIterationFibonacciTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+
+                        <Button Name="ClearOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearOutputsButton_Click"></Button>
+                        
+                    </Grid>
                 </Grid>
             </TabItem>
             <TabItem Header="Algorytm Quicksort" FontSize="18" FontWeight="Medium" >
