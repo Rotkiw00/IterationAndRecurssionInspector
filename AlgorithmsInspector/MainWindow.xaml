@@ -3,7 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:blazor="clr-namespace:Microsoft.AspNetCore.Components.WebView.Wpf;assembly=Microsoft.AspNetCore.Components.WebView.Wpf"
         xmlns:local="clr-namespace:AlgorithmsInspector"
+        xmlns:chart="clr-namespace:AlgorithmsInspector.AlgorithmsCharts"
         mc:Ignorable="d"
         Title="Inspektor" Height="800" Width="1300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
@@ -42,14 +44,14 @@
                                 <RowDefinition Height="*"></RowDefinition>
                             </Grid.RowDefinitions>
                             <TextBlock TextWrapping="WrapWithOverflow" FontWeight="Normal" Margin="5,5,5,5" Grid.RowSpan="2" TextAlignment="Center" VerticalAlignment="Center">
-                            Dla jakiego [n] chcesz wyznaczyć liczbę w ciągu Fibonacciego ?
+                            Dla jakiego n chcesz wyznaczyć liczbę w ciągu Fibonacciego ?
                             </TextBlock>
                             <Grid Grid.Row="0" Grid.Column="1">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*"></ColumnDefinition>
                                     <ColumnDefinition Width="*"></ColumnDefinition>
                                 </Grid.ColumnDefinitions>
-                                <Label Content="[n] = " FontSize="25" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                                <Label Content="n : " FontSize="25" FontWeight="Bold" HorizontalAlignment="Center"></Label>
                                 <TextBox Name="inputParametrFibonacciTxt" FontSize="20" FontWeight="Bold" TextAlignment="Center" Grid.Column="1" Margin="5 5 5 5"></TextBox>
                             </Grid>
                             <Button Name="CountFibonacciButton" Content="Wyznacz" FontSize="25" FontWeight="Bold" Grid.Row="1"  Grid.Column="1" Background="LightGreen" BorderBrush="Red" BorderThickness="2" Margin="5 0 5 5" Click="CountFibonacciButton_Click"></Button>
@@ -61,7 +63,7 @@
                                 <ColumnDefinition Width="*"></ColumnDefinition>
                             </Grid.ColumnDefinitions>
 
-                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" Margin="0 0 5 5" >Wartość dla n-tego wyrazu ciągu Fibonacciego:</TextBlock>
+                            <TextBlock Name="labelFibonacci1" TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" Margin="0 0 5 5" Text="Wartość dla n-tego wyrazu ciągu:" />
                             <TextBox Name="outputResultValueFibonacciTxt" Grid.Column="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
@@ -71,7 +73,7 @@
                                 <ColumnDefinition Width="*"></ColumnDefinition>
                             </Grid.ColumnDefinitions>
 
-                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Suma ciągu Fibonacciego od 1 do n:</TextBlock>
+                            <TextBlock Name="labelFibonacci2" TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Suma ciągu Fibonacciego od 1 do n:</TextBlock>
                             <TextBox Name="outputResultSumFibonacciTxt" Grid.Column="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
@@ -94,9 +96,19 @@
                             <TextBox Name="timeMeasuredIterationFibonacciTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
-                        <Button Name="ClearOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearOutputsButton_Click"></Button>
+                        <Button Name="ClearFibonacciOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearFibonacciOutputsButton_Click"></Button>
                         
                     </Grid>
+
+                    <Grid Grid.Column="1">
+                        <blazor:BlazorWebView HostPage="wwwroot\index.html" Services="{DynamicResource services}">
+                            <blazor:BlazorWebView.RootComponents>
+                                <blazor:RootComponent Selector="#app" ComponentType="{x:Type chart:FibonacciBlazorChart}" />
+                            </blazor:BlazorWebView.RootComponents>
+                        </blazor:BlazorWebView>
+                    </Grid>
+
+
                 </Grid>
             </TabItem>
             <TabItem Header="Algorytm Quicksort" FontSize="18" FontWeight="Medium" >
@@ -105,6 +117,99 @@
                         <ColumnDefinition Width="*"></ColumnDefinition>
                         <ColumnDefinition Width="*"></ColumnDefinition>
                     </Grid.ColumnDefinitions>
+                    
+                    <Grid Grid.Column="0">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                            <RowDefinition Height="*"></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock TextWrapping="WrapWithOverflow" FontWeight="Normal" Margin="5,5,5,5" Grid.Row="0">
+Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] liczb losowych, o długości n.
+                        </TextBlock>
+
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <TextBlock TextWrapping="WrapWithOverflow" FontWeight="Normal" Margin="5,5,5,5" Grid.RowSpan="2" TextAlignment="Center" VerticalAlignment="Center">
+                   Podaj długość n sortowanej tablicy liczb losowych ?
+                            </TextBlock>
+                            <Grid Grid.Row="0" Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <Label Content="Długość [A] : " FontSize="25" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                                <TextBox Name="inputTabLenParametrQcksrtTxt" FontSize="20" FontWeight="Bold" TextAlignment="Center" Grid.Column="1" Margin="5 5 5 5"></TextBox>
+                            </Grid>
+                            <Button Name="CountQuicksortButton" Content="Sortuj" FontSize="25" FontWeight="Bold" Grid.Row="1"  Grid.Column="1" Background="LightGreen" BorderBrush="Red" BorderThickness="2" Margin="5 0 5 5" Click="CountQuicksortButton_Click"></Button>
+                        </Grid>
+
+                        <Grid Grid.Row="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" Margin="0 0 5 5" >Określ element rozdzielający, tj. pivot:
+                            </TextBlock>
+                            <!-- Do zmiany jako Check Boxy-->
+                            <Grid Grid.Column="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                <CheckBox Name="firstElementPivotCheckBox" Content="Pierwszy" Grid.Column="0" FontSize="18" IsEnabled="False" VerticalContentAlignment="Center" Margin="5 5 5 5"></CheckBox>
+                                <CheckBox Name="secondElementPivotCheckBox" Content="Środkowy" Grid.Column="1" FontSize="18" IsEnabled="False" VerticalContentAlignment="Center" Margin="5 5 0 5"></CheckBox>
+                                <CheckBox Name="thirdElementPivotCheckBox" Content="Ostatni" Grid.Column="2" FontSize="18" IsEnabled="False" VerticalContentAlignment="Center" Margin="5 5 5 5"></CheckBox>
+                            </Grid>
+                        </Grid>
+
+                        <Grid Grid.Row="5">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu rekurencyjnego:</TextBlock>
+                            <TextBox Name="timeMeasuredRecurssionQuicksortTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+                        <Grid Grid.Row="6">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"></RowDefinition>
+                                <RowDefinition Height="*"></RowDefinition>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu iteracyjnego:</TextBlock>
+                            <TextBox Name="timeMeasuredIterationQuicksortTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+
+                        <Button Name="ClearQuicksortOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearQuicksortOutputsButton_Click"></Button>
+
+                    </Grid>
+
+                    <Grid Grid.Column="1">
+                        <blazor:BlazorWebView HostPage="wwwroot\index.html" Services="{DynamicResource services}">
+                            <blazor:BlazorWebView.RootComponents>
+                                <blazor:RootComponent Selector="#app" ComponentType="{x:Type chart:QuicksortBlazorChart}" />
+                            </blazor:BlazorWebView.RootComponents>
+                        </blazor:BlazorWebView>
+                    </Grid>
+
                 </Grid>
             </TabItem>
             <TabItem Header="Wieże Hanoi" FontSize="18" FontWeight="Medium" >
