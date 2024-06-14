@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wkala\\.nuget\\packages\\": {}
+    "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsLibrary\\AlgorithmsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsLibrary\\AlgorithmsLibrary.csproj",
       "projectName": "AlgorithmsLibrary",
-      "projectPath": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsLibrary\\AlgorithmsLibrary.csproj",
-      "packagesPath": "C:\\Users\\wkala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsLibrary\\obj\\",
+      "projectPath": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsLibrary\\AlgorithmsLibrary.csproj",
+      "packagesPath": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wkala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wiktor Kalaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nexus.czk.comarch/repository/edi-nuget/index.json": {}
       },
       "frameworks": {
         "net8.0": {

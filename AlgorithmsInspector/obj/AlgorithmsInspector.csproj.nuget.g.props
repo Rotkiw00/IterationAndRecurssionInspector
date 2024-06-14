@@ -5,12 +5,12 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\wkala\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Wiktor Kalaga\.nuget\packages\</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.10.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\wkala\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\Wiktor Kalaga\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Content Include="$(NuGetPackageRoot)psc.blazor.components.chartjs\8.0.3\contentFiles\any\net7.0\libman.json" Condition="Exists('$(NuGetPackageRoot)psc.blazor.components.chartjs\8.0.3\contentFiles\any\net7.0\libman.json')">
@@ -35,6 +35,6 @@
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.wpf\8.0.60\build\Microsoft.AspNetCore.Components.WebView.Wpf.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webview.wpf\8.0.60\build\Microsoft.AspNetCore.Components.WebView.Wpf.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\wkala\.nuget\packages\microsoft.web.webview2\1.0.2151.40</PkgMicrosoft_Web_WebView2>
+    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\Wiktor Kalaga\.nuget\packages\microsoft.web.webview2\1.0.2151.40</PkgMicrosoft_Web_WebView2>
   </PropertyGroup>
 </Project>

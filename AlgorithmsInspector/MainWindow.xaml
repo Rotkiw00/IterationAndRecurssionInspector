@@ -73,7 +73,17 @@
                                 <ColumnDefinition Width="*"></ColumnDefinition>
                             </Grid.ColumnDefinitions>
 
-                            <TextBlock Name="labelFibonacci2" TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Suma ciągu Fibonacciego od 1 do n:</TextBlock>
+                            <TextBlock Name="labelFibonacci2" TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Sekwencja ciągu Fibonacciego:</TextBlock>
+                            <TextBox Name="outputFibonacciSequenceTxt" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" HorizontalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+
+                        <Grid Grid.Row="4">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Name="labelFibonacci3" TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Suma pierwszych n elementów ciągu:</TextBlock>
                             <TextBox Name="outputResultSumFibonacciTxt" Grid.Column="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
 

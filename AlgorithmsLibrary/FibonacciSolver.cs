@@ -25,14 +25,18 @@
             return b;
         }
 
-        public static long SumOfFibonacciSequence(long n)
+        public static (long, List<long>) GetSumAndFibonacciSequence(long n)
         {
-            long sum = 0;
-            for (int i = 0; i < n; i++)
+            List<long> fibonacciSequence = [];
+            for (int i = 0; i <= n; i++)
             {
-                sum += Iteration(i);
+                long fiboNum = Iteration(i);
+                fibonacciSequence.Add(fiboNum);
             }
-            return sum;
+
+            long sumOfFiboSequence = fibonacciSequence.Sum();
+
+            return (sumOfFiboSequence, fibonacciSequence);
         }
     }
 }

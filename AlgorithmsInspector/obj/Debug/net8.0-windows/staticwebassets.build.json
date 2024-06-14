@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N/9UCXfb01VNo4m1PIPZtEKCVbYRdTlI/0pfiPupEoE=",
+  "Hash": "eWN+T49QIUEXHVVRqRrf3ROO1FubJRsx2DWkWPUOD28=",
   "Source": "AlgorithmsInspector",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "AlgorithmsInspector\\wwwroot",
       "Source": "AlgorithmsInspector",
-      "ContentRoot": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\Chart.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\Chart.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "Chart.js",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\Chart.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\Chart.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.cjs",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.cjs.map",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.cjs.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.esm.js",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.esm.min.js",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.js",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.js.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.min.js",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.mjs",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.mjs",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.mjs",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.mjs"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.mjs"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.umd.js",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chart.umd.js.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chart.umd.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chunks/helpers.segment.cjs",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chunks/helpers.segment.cjs.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.cjs.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chunks/helpers.segment.js",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/chunks/helpers.segment.js.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\chunks\\helpers.segment.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bar.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bar.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.bar.d.ts",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bar.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bar.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bubble.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bubble.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.bubble.d.ts",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bubble.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.bubble.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.doughnut.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.doughnut.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.doughnut.d.ts",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.doughnut.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.doughnut.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.line.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.line.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.line.d.ts",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.line.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.line.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.pie.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.pie.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.pie.d.ts",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.pie.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.pie.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.polarArea.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.polarArea.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.polarArea.d.ts",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.polarArea.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.polarArea.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.radar.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.radar.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.radar.d.ts",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.radar.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.radar.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.scatter.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.scatter.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/controller.scatter.d.ts",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.scatter.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\controller.scatter.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/controllers/index.d.ts",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\controllers\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.adapters.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.adapters.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.adapters.d.ts",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.adapters.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.adapters.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animation.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animation.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.animation.d.ts",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animation.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animation.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.animations.d.ts",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.defaults.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.defaults.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.animations.defaults.d.ts",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.defaults.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animations.defaults.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animator.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animator.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.animator.d.ts",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animator.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.animator.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.config.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.config.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.config.d.ts",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.config.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.config.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.controller.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.controller.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.controller.d.ts",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.controller.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.controller.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.datasetController.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.datasetController.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.datasetController.d.ts",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.datasetController.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.datasetController.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.defaults.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.defaults.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.defaults.d.ts",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.defaults.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.defaults.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.element.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.element.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.element.d.ts",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.element.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.element.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.interaction.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.interaction.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.interaction.d.ts",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.interaction.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.interaction.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.layouts.d.ts",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.defaults.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.defaults.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.layouts.defaults.d.ts",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.defaults.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.layouts.defaults.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.plugins.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.plugins.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.plugins.d.ts",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.plugins.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.plugins.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.registry.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.registry.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.registry.d.ts",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.registry.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.registry.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.autoskip.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.autoskip.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.scale.autoskip.d.ts",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.autoskip.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.autoskip.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.scale.d.ts",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.defaults.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.defaults.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.scale.defaults.d.ts",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.defaults.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.scale.defaults.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.ticks.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.ticks.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.ticks.d.ts",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.ticks.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.ticks.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.typedRegistry.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.typedRegistry.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/core.typedRegistry.d.ts",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.typedRegistry.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\core.typedRegistry.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/core/index.d.ts",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\core\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.arc.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.arc.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/elements/element.arc.d.ts",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.arc.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.arc.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.bar.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.bar.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/elements/element.bar.d.ts",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.bar.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.bar.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.line.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.line.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/elements/element.line.d.ts",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.line.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.line.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.point.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.point.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/elements/element.point.d.ts",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.point.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\element.point.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/elements/index.d.ts",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\elements\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.cjs",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.cjs.map",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.cjs.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.esm.js",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.esm.min.js",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.js",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.js.map",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.mjs",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.mjs",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers.mjs",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.mjs"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers.mjs"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.canvas.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.canvas.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.canvas.d.ts",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.canvas.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.canvas.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.collection.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.collection.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.collection.d.ts",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.collection.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.collection.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.color.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.color.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.color.d.ts",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.color.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.color.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.config.d.ts",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.types.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.types.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.config.types.d.ts",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.types.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.config.types.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.core.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.core.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.core.d.ts",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.core.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.core.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.curve.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.curve.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.curve.d.ts",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.curve.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.curve.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.dom.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.dom.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.dom.d.ts",
       "AssetKind": "All",
@@ -1249,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.dom.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.dom.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.easing.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.easing.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.easing.d.ts",
       "AssetKind": "All",
@@ -1268,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.easing.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.easing.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.extras.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.extras.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.extras.d.ts",
       "AssetKind": "All",
@@ -1287,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.extras.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.extras.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.interpolation.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.interpolation.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.interpolation.d.ts",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.interpolation.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.interpolation.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.intl.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.intl.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.intl.d.ts",
       "AssetKind": "All",
@@ -1325,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.intl.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.intl.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.math.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.math.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.math.d.ts",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.math.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.math.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.options.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.options.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.options.d.ts",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.options.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.options.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.rtl.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.rtl.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.rtl.d.ts",
       "AssetKind": "All",
@@ -1382,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.rtl.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.rtl.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.segment.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.segment.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/helpers.segment.d.ts",
       "AssetKind": "All",
@@ -1401,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.segment.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\helpers.segment.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/helpers/index.d.ts",
       "AssetKind": "All",
@@ -1420,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\helpers\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/index.d.ts",
       "AssetKind": "All",
@@ -1439,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.umd.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.umd.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/index.umd.d.ts",
       "AssetKind": "All",
@@ -1458,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.umd.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\index.umd.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/platform/index.d.ts",
       "AssetKind": "All",
@@ -1477,13 +1477,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.base.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.base.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/platform/platform.base.d.ts",
       "AssetKind": "All",
@@ -1496,13 +1496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.base.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.base.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.basic.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.basic.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/platform/platform.basic.d.ts",
       "AssetKind": "All",
@@ -1515,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.basic.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.basic.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.dom.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.dom.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/platform/platform.dom.d.ts",
       "AssetKind": "All",
@@ -1534,13 +1534,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.dom.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\platform\\platform.dom.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/index.d.ts",
       "AssetKind": "All",
@@ -1553,13 +1553,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.colors.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.colors.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.colors.d.ts",
       "AssetKind": "All",
@@ -1572,13 +1572,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.colors.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.colors.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.decimation.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.decimation.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.decimation.d.ts",
       "AssetKind": "All",
@@ -1591,13 +1591,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.decimation.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.decimation.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/filler.drawing.d.ts",
       "AssetKind": "All",
@@ -1610,13 +1610,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/filler.helper.d.ts",
       "AssetKind": "All",
@@ -1629,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/filler.options.d.ts",
       "AssetKind": "All",
@@ -1648,13 +1648,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/filler.segment.d.ts",
       "AssetKind": "All",
@@ -1667,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/filler.target.d.ts",
       "AssetKind": "All",
@@ -1686,13 +1686,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/filler.target.stack.d.ts",
       "AssetKind": "All",
@@ -1705,13 +1705,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/index.d.ts",
       "AssetKind": "All",
@@ -1724,13 +1724,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.filler/simpleArc.d.ts",
       "AssetKind": "All",
@@ -1743,13 +1743,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.legend.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.legend.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.legend.d.ts",
       "AssetKind": "All",
@@ -1762,13 +1762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.legend.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.legend.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.subtitle.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.subtitle.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.subtitle.d.ts",
       "AssetKind": "All",
@@ -1781,13 +1781,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.subtitle.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.subtitle.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.title.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.title.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.title.d.ts",
       "AssetKind": "All",
@@ -1800,13 +1800,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.title.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.title.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.tooltip.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.tooltip.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/plugins/plugin.tooltip.d.ts",
       "AssetKind": "All",
@@ -1819,13 +1819,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.tooltip.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\plugins\\plugin.tooltip.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/index.d.ts",
       "AssetKind": "All",
@@ -1838,13 +1838,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.category.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.category.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.category.d.ts",
       "AssetKind": "All",
@@ -1857,13 +1857,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.category.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.category.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linear.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linear.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.linear.d.ts",
       "AssetKind": "All",
@@ -1876,13 +1876,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linear.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linear.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linearbase.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linearbase.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.linearbase.d.ts",
       "AssetKind": "All",
@@ -1895,13 +1895,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linearbase.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.linearbase.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.logarithmic.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.logarithmic.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.logarithmic.d.ts",
       "AssetKind": "All",
@@ -1914,13 +1914,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.logarithmic.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.logarithmic.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.radialLinear.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.radialLinear.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.radialLinear.d.ts",
       "AssetKind": "All",
@@ -1933,13 +1933,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.radialLinear.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.radialLinear.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.time.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.time.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.time.d.ts",
       "AssetKind": "All",
@@ -1952,13 +1952,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.time.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.time.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.timeseries.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.timeseries.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/scales/scale.timeseries.d.ts",
       "AssetKind": "All",
@@ -1971,13 +1971,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.timeseries.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\scales\\scale.timeseries.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types.d.ts",
       "AssetKind": "All",
@@ -1990,13 +1990,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\animation.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\animation.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/animation.d.ts",
       "AssetKind": "All",
@@ -2009,13 +2009,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\animation.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\animation.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\basic.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\basic.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/basic.d.ts",
       "AssetKind": "All",
@@ -2028,13 +2028,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\basic.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\basic.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\color.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\color.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/color.d.ts",
       "AssetKind": "All",
@@ -2047,13 +2047,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\color.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\color.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\geometric.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\geometric.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/geometric.d.ts",
       "AssetKind": "All",
@@ -2066,13 +2066,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\geometric.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\geometric.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\index.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\index.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/index.d.ts",
       "AssetKind": "All",
@@ -2085,13 +2085,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\index.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\index.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\layout.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\layout.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/layout.d.ts",
       "AssetKind": "All",
@@ -2104,13 +2104,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\layout.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\layout.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\utils.d.ts",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\utils.d.ts",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/Chart.js/types/utils.d.ts",
       "AssetKind": "All",
@@ -2123,13 +2123,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\utils.d.ts"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\Chart.js\\types\\utils.d.ts"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-adapter-moment/chartjs-adapter-moment.esm.js",
       "AssetKind": "All",
@@ -2142,13 +2142,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-adapter-moment/chartjs-adapter-moment.esm.min.js",
       "AssetKind": "All",
@@ -2161,13 +2161,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-adapter-moment/chartjs-adapter-moment.js",
       "AssetKind": "All",
@@ -2180,13 +2180,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-adapter-moment/chartjs-adapter-moment.min.js",
       "AssetKind": "All",
@@ -2199,13 +2199,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-adapter-moment\\chartjs-adapter-moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-autocolors/chartjs-plugin-autocolors.cjs",
       "AssetKind": "All",
@@ -2218,13 +2218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-autocolors/chartjs-plugin-autocolors.cjs.map",
       "AssetKind": "All",
@@ -2237,13 +2237,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.cjs.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-autocolors/chartjs-plugin-autocolors.esm.js",
       "AssetKind": "All",
@@ -2256,13 +2256,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-autocolors/chartjs-plugin-autocolors.esm.js.map",
       "AssetKind": "All",
@@ -2275,13 +2275,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-autocolors/chartjs-plugin-autocolors.min.js",
       "AssetKind": "All",
@@ -2294,13 +2294,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-autocolors/chartjs-plugin-autocolors.min.js.map",
       "AssetKind": "All",
@@ -2313,13 +2313,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-autocolors\\chartjs-plugin-autocolors.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-datalabels/chartjs-plugin-datalabels.esm.js",
       "AssetKind": "All",
@@ -2332,13 +2332,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-datalabels/chartjs-plugin-datalabels.esm.min.js",
       "AssetKind": "All",
@@ -2351,13 +2351,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-datalabels/chartjs-plugin-datalabels.js",
       "AssetKind": "All",
@@ -2370,13 +2370,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-datalabels/chartjs-plugin-datalabels.min.js",
       "AssetKind": "All",
@@ -2389,13 +2389,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-datalabels\\chartjs-plugin-datalabels.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-zoom/chartjs-plugin-zoom.esm.js",
       "AssetKind": "All",
@@ -2408,13 +2408,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-zoom/chartjs-plugin-zoom.esm.min.js",
       "AssetKind": "All",
@@ -2427,13 +2427,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-zoom/chartjs-plugin-zoom.js",
       "AssetKind": "All",
@@ -2446,13 +2446,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/chartjs-plugin-zoom/chartjs-plugin-zoom.min.js",
       "AssetKind": "All",
@@ -2465,13 +2465,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\chartjs-plugin-zoom\\chartjs-plugin-zoom.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/hammer.js/hammer.js",
       "AssetKind": "All",
@@ -2484,13 +2484,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/hammer.js/hammer.min.js",
       "AssetKind": "All",
@@ -2503,13 +2503,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/hammer.js/hammer.min.js.map",
       "AssetKind": "All",
@@ -2522,13 +2522,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.map",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.map",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "lib/hammer.js/hammer.min.map",
       "AssetKind": "All",
@@ -2541,13 +2541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.map"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\lib\\hammer.js\\hammer.min.map"
     },
     {
-      "Identity": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\PSC.Blazor.Components.Chartjs.bundle.scp.css",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\PSC.Blazor.Components.Chartjs.bundle.scp.css",
       "SourceId": "PSC.Blazor.Components.Chartjs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\",
       "BasePath": "_content/PSC.Blazor.Components.Chartjs",
       "RelativePath": "PSC.Blazor.Components.Chartjs.bundle.scp.css",
       "AssetKind": "All",
@@ -2560,13 +2560,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\PSC.Blazor.Components.Chartjs.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\.nuget\\packages\\psc.blazor.components.chartjs\\8.0.3\\staticwebassets\\PSC.Blazor.Components.Chartjs.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\AlgorithmsInspector.styles.css",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\AlgorithmsInspector.styles.css",
       "SourceId": "AlgorithmsInspector",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "AlgorithmsInspector.styles.css",
       "AssetKind": "All",
@@ -2579,13 +2579,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\AlgorithmsInspector.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\obj\\Debug\\net8.0-windows\\scopedcss\\bundle\\AlgorithmsInspector.styles.css"
     },
     {
-      "Identity": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\wwwroot\\css\\app.css",
       "SourceId": "AlgorithmsInspector",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\wwwroot\\index.html",
       "SourceId": "AlgorithmsInspector",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\wkala\\Documents\\STUDIA [AKTUALNIE]\\MGR - UŚ\\II SEM\\KJP\\Program\\AlgorithmsInspector\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Wiktor Kalaga\\Documents\\Studia\\KJP\\IterationAndRecurssionInspector\\AlgorithmsInspector\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

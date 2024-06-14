@@ -28,6 +28,7 @@ namespace AlgorithmsInspector
 
             #region Variables
             long sumOfFibonacciSeries = 0;
+            List<long> fibonacciSequence = [];
             long resultIterationForN = 0;
 
             Stopwatch stopwatchIteration = new();
@@ -51,10 +52,10 @@ namespace AlgorithmsInspector
                 else
                 {
                     string msg1 = $"Wartość dla {inputFibonacciParameter}-tego wyrazu ciągu:";
-                    string msg2 = $"Suma ciągu Fibonacciego od 1 do {inputFibonacciParameter}:";
+                    string msg2 = $"Suma pierwszych {inputFibonacciParameter} elementów ciągu:";
 
                     labelFibonacci1.Text = msg1;
-                    labelFibonacci2.Text = msg2;
+                    labelFibonacci3.Text = msg2;
 
                     await Task.Run(() =>
                     {
@@ -71,7 +72,8 @@ namespace AlgorithmsInspector
 
                     outputResultValueFibonacciTxt.Text = resultIterationForN.ToString();
 
-                    sumOfFibonacciSeries = FibonacciSolver.SumOfFibonacciSequence(inputFibonacciParameter);
+                    (sumOfFibonacciSeries, fibonacciSequence) = FibonacciSolver.GetSumAndFibonacciSequence(inputFibonacciParameter);
+                    outputFibonacciSequenceTxt.Text = string.Join(", ", fibonacciSequence);
                     outputResultSumFibonacciTxt.Text = sumOfFibonacciSeries.ToString();
 
                     timeMeasuredIterationFibonacciTxt.Text = iterationTime.ToString("0.###############") + " s";
@@ -85,8 +87,9 @@ namespace AlgorithmsInspector
         private void ResetTextControlsFibonacci()
         {
             labelFibonacci1.Text = "Wartość dla n-tego wyrazu ciągu:";
-            labelFibonacci2.Text = "Suma ciągu Fibonacciego od 1 do n:";
+            labelFibonacci3.Text = "Suma pierwszych n elementów ciągu:";
 
+            outputFibonacciSequenceTxt.Text = "";
             outputResultValueFibonacciTxt.Text = "";
             outputResultSumFibonacciTxt.Text = "";
             timeMeasuredIterationFibonacciTxt.Text = "";
