@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using System.Windows;
+using System.Windows.Controls;
 using AlgorithmsLibrary;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -31,9 +32,9 @@ namespace AlgorithmsInspector
             List<long> fibonacciSequence = [];
             long resultIterationForN = 0;
 
-            Stopwatch stopwatchIteration = new();
+            Stopwatch stopwatchFibonacciIteration = new();
             double iterationTime = 0;
-            Stopwatch stopwatchRecursive = new();
+            Stopwatch stopwatchFibonacciRecursive = new();
             double recursiveTime = 0;
             #endregion
 
@@ -41,13 +42,13 @@ namespace AlgorithmsInspector
             bool isParseableFibonacciInputParameter = long.TryParse(inputParametrFibonacciTxt.Text, out long inputFibonacciParameter);
             if (!isParseableFibonacciInputParameter)
             {
-                MessageBox.Show("Nie można zamienić na wartość liczbową.", "Błąd", MessageBoxButton.OK, MessageBoxImage.Error);
+                LogParsingError();
             }
             else
             {
                 if (inputFibonacciParameter < 0 || inputFibonacciParameter > 1_00)
                 {
-                    MessageBox.Show("Parametr wejściowy powinien może być tylko z zakresu:\n(0; 100), bo powyżej to już będzie bardzo długo.", "Uwaga", MessageBoxButton.OK, MessageBoxImage.Warning);
+                    LogWarning("Parametr wejściowy powinien może być tylko z zakresu:\n(0; 100), bo powyżej to już będzie bardzo długo.");
                 }
                 else
                 {
@@ -59,16 +60,16 @@ namespace AlgorithmsInspector
 
                     await Task.Run(() =>
                     {
-                        stopwatchIteration.Start();
+                        stopwatchFibonacciIteration.Start();
                         resultIterationForN = FibonacciSolver.Iteration(inputFibonacciParameter);
-                        stopwatchIteration.Stop();
+                        stopwatchFibonacciIteration.Stop();
 
-                        stopwatchRecursive.Start();
+                        stopwatchFibonacciRecursive.Start();
                         _ = FibonacciSolver.Recursion(inputFibonacciParameter);
-                        stopwatchRecursive.Stop();
+                        stopwatchFibonacciRecursive.Stop();
                     });
-                    iterationTime = stopwatchIteration.Elapsed.TotalMilliseconds / 1_000;
-                    recursiveTime = stopwatchRecursive.Elapsed.TotalMilliseconds / 1_000;
+                    iterationTime = stopwatchFibonacciIteration.Elapsed.TotalMilliseconds / 1_000;
+                    recursiveTime = stopwatchFibonacciRecursive.Elapsed.TotalMilliseconds / 1_000;
 
                     outputResultValueFibonacciTxt.Text = resultIterationForN.ToString();
 
@@ -80,7 +81,7 @@ namespace AlgorithmsInspector
                     timeMeasuredRecurssionFibonacciTxt.Text = recursiveTime.ToString("0.###############") + " s";
                 }
             }
-            ResetInputTextFibonacci();
+            ResetInputText(inputParametrFibonacciTxt);
             #endregion
         }
 
@@ -89,16 +90,11 @@ namespace AlgorithmsInspector
             labelFibonacci1.Text = "Wartość dla n-tego wyrazu ciągu:";
             labelFibonacci3.Text = "Suma pierwszych n elementów ciągu:";
 
-            outputFibonacciSequenceTxt.Text = "";
-            outputResultValueFibonacciTxt.Text = "";
-            outputResultSumFibonacciTxt.Text = "";
-            timeMeasuredIterationFibonacciTxt.Text = "";
-            timeMeasuredRecurssionFibonacciTxt.Text = "";
-        }
-
-        private void ResetInputTextFibonacci()
-        {
-            inputParametrFibonacciTxt.Text = "";
+            outputFibonacciSequenceTxt.Text = string.Empty;
+            outputResultValueFibonacciTxt.Text = string.Empty;
+            outputResultSumFibonacciTxt.Text = string.Empty;
+            timeMeasuredIterationFibonacciTxt.Text = string.Empty;
+            timeMeasuredRecurssionFibonacciTxt.Text = string.Empty;
         }
 
         private void ClearFibonacciOutputsButton_Click(object sender, RoutedEventArgs e)
@@ -108,19 +104,160 @@ namespace AlgorithmsInspector
         #endregion
 
         #region QUICKSORT
-        private void CountQuicksortButton_Click(object sender, RoutedEventArgs e)
+        private async void CountQuicksortButton_Click(object sender, RoutedEventArgs e)
         {
+            #region Variables
+            int selectedIndexOfSortedTable = 0;
 
+            Stopwatch stopwatchQuicksortIteration = new();
+            double iterationQuicksortTime = 0;
+            Stopwatch stopwatchQuicksortRecursive = new();
+            double recursiveQuicksortTime = 0;
+
+            List<CheckBox> checkBoxes =
+            [
+                secondElementPivotCheckBox,
+                thirdElementPivotCheckBox
+            ];
+            #endregion
+
+            #region Main logic            
+            bool isParseableLengthOfTable = int.TryParse(inputTabLenParametrQcksrtTxt.Text, out int tableLength);
+            if (!isParseableLengthOfTable)
+            {
+                LogParsingError();
+            }
+            else
+            {
+                if (tableLength < 0 || tableLength > 1_000_000)
+                {
+                    LogWarning("Zalecana długość tablicy mieści się w zakresie\nod 0 do 1 000 000");
+                }
+                else
+                {
+                    int[] sortingData = Utility.GetSortingData(tableLength);
+                    LogInfrormation($"Wygenerowano losowo dane dla tablicy o długości: {tableLength}.");
+
+                    selectedIndexOfSortedTable = ValidateCheckBoxesAndGetPivot(checkBoxes, tableLength);
+
+                    if (selectedIndexOfSortedTable == -1)
+                    {
+                        LogWarning("Proszę zaznaczyć jeden element rozdzielający.");
+                    }
+                    else
+                    {
+                        if (tableLength <= 10_000)
+                        {
+                            tableToBeSortedQuicksortTxt.Text = string.Join(", ", sortingData);
+
+                            await Task.Run(() =>
+                            {
+                                stopwatchQuicksortIteration.Start();
+                                QuicksortSolver.Iteration(sortingData, 0, selectedIndexOfSortedTable);
+                                stopwatchQuicksortIteration.Stop();
+
+                                stopwatchQuicksortRecursive.Start();
+                                QuicksortSolver.Recursion(sortingData, 0, selectedIndexOfSortedTable);
+                                stopwatchQuicksortRecursive.Stop();
+                            });
+
+                            sortedTableQuicksortTxt.Text = string.Join(", ", sortingData);
+                            iterationQuicksortTime = stopwatchQuicksortIteration.Elapsed.TotalMilliseconds / 1_000;
+                            recursiveQuicksortTime = stopwatchQuicksortRecursive.Elapsed.TotalMilliseconds / 1_000;
+                            timeMeasuredIterationQuicksortTxt.Text = iterationQuicksortTime.ToString("0.###############") + " s";
+                            timeMeasuredRecurssionQuicksortTxt.Text = recursiveQuicksortTime.ToString("0.###############") + " s";
+                        }
+                        else
+                        {
+                            await Task.Run(() =>
+                            {
+                                stopwatchQuicksortIteration.Start();
+                                QuicksortSolver.Iteration(sortingData, 0, selectedIndexOfSortedTable);
+                                stopwatchQuicksortIteration.Stop();
+                            });
+
+                            sortedTableQuicksortTxt.Text = "Za duża tablica.";
+                            iterationQuicksortTime = stopwatchQuicksortIteration.Elapsed.TotalMilliseconds / 1_000;
+                            timeMeasuredIterationQuicksortTxt.Text = iterationQuicksortTime.ToString("0.###############") + " s";
+                            timeMeasuredRecurssionQuicksortTxt.Text = "Nie można przeprowadzić pomiaru";
+                        }
+                    }
+                }
+                ResetInputText(inputTabLenParametrQcksrtTxt);
+            }
+            #endregion
+        }
+
+        private static int ValidateCheckBoxesAndGetPivot(List<CheckBox> checkBoxes, int tableLength)
+        {
+            var selectedCheckBox = checkBoxes.Where(c => c.IsChecked == true).ToList();
+
+            if (selectedCheckBox.Count == 0 || selectedCheckBox.Count > 1)
+            {
+                return -1;
+            }
+            else
+            {
+                foreach (CheckBox checkBox in checkBoxes.Where(c => c.IsChecked == false))
+                {
+                    checkBox.IsEnabled = false;
+                }
+                return GetSelectedPivot(selectedCheckBox.FirstOrDefault(), tableLength);
+            }
+        }
+
+        private static int GetSelectedPivot(CheckBox checkBox, int tableLength)
+        {
+            int pivot = checkBox.Content switch
+            {
+                "Środkowy" => (tableLength - 1) / 2,
+                "Skrajny" => tableLength - 1,
+                _ => 0
+            };
+            return pivot;
         }
 
         private void ClearQuicksortOutputsButton_Click(object sender, RoutedEventArgs e)
         {
+            inputTabLenParametrQcksrtTxt.Text = "";
 
+            timeMeasuredIterationQuicksortTxt.Text = string.Empty;
+            timeMeasuredRecurssionQuicksortTxt.Text = string.Empty;
+            tableToBeSortedQuicksortTxt.Text = string.Empty;
+            sortedTableQuicksortTxt.Text = string.Empty;
+
+            secondElementPivotCheckBox.IsChecked = false;
+            thirdElementPivotCheckBox.IsChecked = false;
+
+            secondElementPivotCheckBox.IsEnabled = true;
+            thirdElementPivotCheckBox.IsEnabled = true;
         }
         #endregion
 
         #region TOWER OF HANOI
 
+        #endregion
+
+        #region  -- UTILS METHODS --
+        private static void LogWarning(string message = "Ta operacja nie może zostać wykonana. Popraw parametry.")
+        {
+            MessageBox.Show(message, "Uwaga", MessageBoxButton.OK, MessageBoxImage.Warning);
+        }
+
+        private static void LogParsingError(string message = "Nie można zamienić na wartość liczbową.")
+        {
+            MessageBox.Show(message, "Błąd", MessageBoxButton.OK, MessageBoxImage.Error);
+        }
+
+        private static void LogInfrormation(string message)
+        {
+            MessageBox.Show(message, "Informacja", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private void ResetInputText(TextBox controlTextBox)
+        {
+            controlTextBox.Text = string.Empty;
+        }
         #endregion
     }
 }

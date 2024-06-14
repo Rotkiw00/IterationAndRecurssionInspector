@@ -15,22 +15,22 @@ using AlgorithmsLibrary;
 
 Stopwatch stopwatch3 = new Stopwatch();
 var table1 = Utility.GetSortingData(10);
-Utility.PrintData(table1);
+Utility.PrintDataInConsole(table1);
 stopwatch3.Start();
 QuicksortSolver.Recursion(table1, 0, table1.Length - 1);
 stopwatch3.Stop();
 Console.WriteLine(stopwatch3.Elapsed);
-Utility.PrintData(table1);
+Utility.PrintDataInConsole(table1);
 
 
 Stopwatch stopwatch4 = new Stopwatch();
 var table2 = Utility.GetSortingData(10);
-Utility.PrintData(table2);
+Utility.PrintDataInConsole(table2);
 stopwatch4.Start();
 QuicksortSolver.Iteration(table2, 0, table2.Length - 1);
 stopwatch4.Stop();
 Console.WriteLine(stopwatch4.Elapsed);
-Utility.PrintData(table2);
+Utility.PrintDataInConsole(table2);
 
 Console.ReadLine();
 

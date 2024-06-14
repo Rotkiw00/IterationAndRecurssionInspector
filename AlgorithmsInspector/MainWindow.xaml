@@ -117,10 +117,9 @@
                             </blazor:BlazorWebView.RootComponents>
                         </blazor:BlazorWebView>
                     </Grid>
-
-
                 </Grid>
             </TabItem>
+            
             <TabItem Header="Algorytm Quicksort" FontSize="18" FontWeight="Medium" >
                 <Grid Background="#FFE5E5E5">
                     <Grid.ColumnDefinitions>
@@ -181,12 +180,30 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*"></ColumnDefinition>
                                     <ColumnDefinition Width="*"></ColumnDefinition>
-                                    <ColumnDefinition Width="*"></ColumnDefinition>
                                 </Grid.ColumnDefinitions>
-                                <CheckBox Name="firstElementPivotCheckBox" Content="Pierwszy" Grid.Column="0" FontSize="18" IsEnabled="False" VerticalContentAlignment="Center" Margin="5 5 5 5"></CheckBox>
-                                <CheckBox Name="secondElementPivotCheckBox" Content="Środkowy" Grid.Column="1" FontSize="18" IsEnabled="False" VerticalContentAlignment="Center" Margin="5 5 0 5"></CheckBox>
-                                <CheckBox Name="thirdElementPivotCheckBox" Content="Ostatni" Grid.Column="2" FontSize="18" IsEnabled="False" VerticalContentAlignment="Center" Margin="5 5 5 5"></CheckBox>
+
+                                <CheckBox Name="secondElementPivotCheckBox" Content="Środkowy" Grid.Column="0" FontSize="18" IsEnabled="True" IsChecked="False" VerticalContentAlignment="Center" Margin="5 5 0 5"></CheckBox>
+                                <CheckBox Name="thirdElementPivotCheckBox" Content="Skrajny" Grid.Column="1" FontSize="18" IsEnabled="True" IsChecked="False" VerticalContentAlignment="Center" Margin="5 5 0 5"></CheckBox>
                             </Grid>
+                        </Grid>
+
+                        <Grid Grid.Row="3">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Tablica do posortowania:</TextBlock>
+                            <TextBox Name="tableToBeSortedQuicksortTxt" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" HorizontalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
+                        </Grid>
+                        <Grid Grid.Row="4">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Posortowana tablica:</TextBlock>
+                            <TextBox Name="sortedTableQuicksortTxt" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" HorizontalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
                         <Grid Grid.Row="5">
@@ -196,7 +213,7 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                             </Grid.RowDefinitions>
 
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu rekurencyjnego:</TextBlock>
-                            <TextBox Name="timeMeasuredRecurssionQuicksortTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                            <TextBox Name="timeMeasuredRecurssionQuicksortTxt" Grid.Row="1" FontSize="25" IsReadOnly="True" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
                         <Grid Grid.Row="6">
                             <Grid.RowDefinitions>
@@ -205,7 +222,7 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                             </Grid.RowDefinitions>
 
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu iteracyjnego:</TextBlock>
-                            <TextBox Name="timeMeasuredIterationQuicksortTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                            <TextBox Name="timeMeasuredIterationQuicksortTxt" Grid.Row="1" FontSize="25" IsReadOnly="True" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
                         <Button Name="ClearQuicksortOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearQuicksortOutputsButton_Click"></Button>

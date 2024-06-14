@@ -18,7 +18,7 @@
             return data;
         }
 
-        public static void PrintData(int[] data)
+        public static void PrintDataInConsole(int[] data)
         {
             Console.WriteLine(string.Join(" ", data));
         }
