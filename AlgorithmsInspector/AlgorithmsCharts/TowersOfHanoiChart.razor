@@ -1,1 +1,43 @@
 <h3>Algorytm rozwi¹zuj¹cy problem Wie¿ Hanoi. Rekurencyjnie vs. Iteracyjnie.</h3>
+<Chart Config="_config1" @ref="_chart1"></Chart>
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        _config1 = new LineChartConfig()
+            {
+                Options = new Options()
+                {
+                    RegisterDataLabels = true,
+                    Plugins = new Plugins()
+                    {
+                        DataLabels = new DataLabels()
+                        {
+                            Align = DatalabelsAlign.Start,
+                            Anchor = DatalabelsAnchor.Start,
+                        }
+                    }
+                }
+            };
+
+        _config1.Data.Labels = LineChartLabels;
+        _config1.Data.Datasets.Add(new LineDataset()
+            {
+                Label = "Rekurencyjnie",
+                Data = LineDataRecursion_2,
+                BorderColor = "red",
+                Tension = 0.1M,
+                Fill = true,
+                PointRadius = 4,
+            });
+        _config1.Data.Datasets.Add(new LineDataset()
+            {
+                Label = "Iteracyjnie",
+                Data = LineDataIteration_2,
+                BorderColor = "green",
+                Tension = 0.1M,
+                Fill = true,
+                PointRadius = 2,
+            });
+    }
+}

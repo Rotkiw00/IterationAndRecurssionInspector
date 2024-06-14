@@ -107,7 +107,7 @@
                         </Grid>
 
                         <Button Name="ClearFibonacciOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearFibonacciOutputsButton_Click"></Button>
-                        
+
                     </Grid>
 
                     <Grid Grid.Column="1">
@@ -119,14 +119,14 @@
                     </Grid>
                 </Grid>
             </TabItem>
-            
+
             <TabItem Header="Algorytm Quicksort" FontSize="18" FontWeight="Medium" >
                 <Grid Background="#FFE5E5E5">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="*"></ColumnDefinition>
                         <ColumnDefinition Width="*"></ColumnDefinition>
                     </Grid.ColumnDefinitions>
-                    
+
                     <Grid Grid.Column="0">
 
                         <Grid.RowDefinitions>
@@ -173,28 +173,8 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                                 <ColumnDefinition Width="*"></ColumnDefinition>
                             </Grid.ColumnDefinitions>
 
-                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" Margin="0 0 5 5" >Określ element rozdzielający, tj. pivot:
-                            </TextBlock>
-                            <!-- Do zmiany jako Check Boxy-->
-                            <Grid Grid.Column="1">
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="*"></ColumnDefinition>
-                                    <ColumnDefinition Width="*"></ColumnDefinition>
-                                </Grid.ColumnDefinitions>
-
-                                <CheckBox Name="secondElementPivotCheckBox" Content="Środkowy" Grid.Column="0" FontSize="18" IsEnabled="True" IsChecked="False" VerticalContentAlignment="Center" Margin="5 5 0 5"></CheckBox>
-                                <CheckBox Name="thirdElementPivotCheckBox" Content="Skrajny" Grid.Column="1" FontSize="18" IsEnabled="True" IsChecked="False" VerticalContentAlignment="Center" Margin="5 5 0 5"></CheckBox>
-                            </Grid>
-                        </Grid>
-
-                        <Grid Grid.Row="3">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"></ColumnDefinition>
-                                <ColumnDefinition Width="*"></ColumnDefinition>
-                            </Grid.ColumnDefinitions>
-
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Tablica do posortowania:</TextBlock>
-                            <TextBox Name="tableToBeSortedQuicksortTxt" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" HorizontalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
+                            <TextBox Name="tableToBeSortedQuicksortTxt" TextWrapping="Wrap" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" VerticalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
                         </Grid>
                         <Grid Grid.Row="4">
                             <Grid.ColumnDefinitions>
@@ -203,7 +183,7 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                             </Grid.ColumnDefinitions>
 
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Posortowana tablica:</TextBlock>
-                            <TextBox Name="sortedTableQuicksortTxt" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" HorizontalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
+                            <TextBox Name="sortedTableQuicksortTxt" TextWrapping="Wrap" Grid.Column="1" FontSize="25"  TextAlignment="Center" VerticalContentAlignment="Center" IsReadOnly="True" VerticalScrollBarVisibility="Visible" AcceptsReturn="True" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
                         <Grid Grid.Row="5">
@@ -213,7 +193,7 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                             </Grid.RowDefinitions>
 
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu rekurencyjnego:</TextBlock>
-                            <TextBox Name="timeMeasuredRecurssionQuicksortTxt" Grid.Row="1" FontSize="25" IsReadOnly="True" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                            <TextBox Name="timeMeasuredRecurssionQuicksortTxt" Grid.Row="1" FontSize="25" IsEnabled="True" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
                         <Grid Grid.Row="6">
                             <Grid.RowDefinitions>
@@ -222,7 +202,7 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                             </Grid.RowDefinitions>
 
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" >Czas działania algorytmu iteracyjnego:</TextBlock>
-                            <TextBox Name="timeMeasuredIterationQuicksortTxt" Grid.Row="1" FontSize="25" IsReadOnly="True" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
+                            <TextBox Name="timeMeasuredIterationQuicksortTxt" Grid.Row="1" FontSize="25" IsEnabled="True" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"></TextBox>
                         </Grid>
 
                         <Button Name="ClearQuicksortOutputsButton" Content="Wyczyść" Grid.Row="8" FontSize="25" Foreground="Red" Margin="5 5 5 5" Click="ClearQuicksortOutputsButton_Click"></Button>
@@ -239,6 +219,7 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
 
                 </Grid>
             </TabItem>
+
             <TabItem Header="Wieże Hanoi" FontSize="18" FontWeight="Medium" >
                 <Grid Background="#FFE5E5E5">
                     <Grid.ColumnDefinitions>
@@ -282,13 +263,21 @@ Algorytm szybkiego sortowania - Quicksort. Dane do posortowania to tablica [A] l
                             </Grid>
                             <Button Name="SolveTowerOfHanoiButton" Content="Rozwiąż" FontSize="25" FontWeight="Bold" Grid.Row="1" Grid.Column="1" Background="LightGreen" BorderBrush="Red" BorderThickness="2" Margin="5 0 5 5" Click="SolveTowerOfHanoiButton_Click"/>
                         </Grid>
-                        <Grid Grid.Row="2" Grid.RowSpan="3">
+                        <Grid Grid.Row="2" Grid.RowSpan="2">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*"/>
                                 <ColumnDefinition Width="*"/>
                             </Grid.ColumnDefinitions>
                             <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center" Margin="0 0 5 5" Text="Ciąg kroków do rozwiązania problemu Wież Hanoi:"/>
-                            <TextBox Name="outputStepsSequenceHanoiTxt" Grid.Column="1" Grid.ColumnSpan="3" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"/>
+                            <TextBox Name="outputStepsSequenceHanoiTxt" TextWrapping="Wrap" Grid.Column="1" Grid.ColumnSpan="3" FontSize="25" IsReadOnly="True" TextAlignment="Center" HorizontalContentAlignment="Left" VerticalScrollBarVisibility="Visible" Margin="5 0 5 5"/>
+                        </Grid>
+                        <Grid Grid.Row="4">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock TextWrapping="WrapWithOverflow" FontSize="25" FontWeight="Bold" VerticalAlignment="Center" TextAlignment="Center">Ilość ruchów do przeniesienia krążków:</TextBlock>
+                            <TextBox Name="numberOfMovesHanoiTxt" Grid.Row="1" FontSize="25" IsEnabled="False" TextAlignment="Center" VerticalContentAlignment="Center" Margin="5 0 5 5"/>
                         </Grid>
                         <Grid Grid.Row="5">
                             <Grid.RowDefinitions>

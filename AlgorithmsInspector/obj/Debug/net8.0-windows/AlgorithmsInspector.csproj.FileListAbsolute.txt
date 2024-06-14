@@ -66,9 +66,13 @@ C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program\Algorit
 C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program\AlgorithmsInspector\obj\Debug\net8.0-windows\staticwebassets.pack.json
 C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program\AlgorithmsInspector\obj\Debug\net8.0-windows\scopedcss\bundle\AlgorithmsInspector.styles.css
 C:\Users\wkala\Documents\STUDIA [AKTUALNIE]\MGR - UŚ\II SEM\KJP\Program\AlgorithmsInspector\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.dll
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\refint\AlgorithmsInspector.dll
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.pdb
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.csproj.AssemblyReference.cache
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector_Content.g.cs
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector_MarkupCompile.cache
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector_MarkupCompile.lref
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\bin\Debug\net8.0-windows\AlgorithmsInspector.staticwebassets.runtime.json
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\bin\Debug\net8.0-windows\AlgorithmsInspector.exe
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\bin\Debug\net8.0-windows\AlgorithmsInspector.deps.json
@@ -109,13 +113,6 @@ C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\Algo
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\bin\Debug\net8.0-windows\AlgorithmsLibrary.dll
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\bin\Debug\net8.0-windows\AlgorithmsLibrary.pdb
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.csproj.AssemblyReference.cache
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector_Content.g.cs
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector_MarkupCompile.cache
-C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector_MarkupCompile.lref
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.g.resources
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.GeneratedMSBuildEditorConfig.editorconfig
@@ -132,5 +129,8 @@ C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\Algo
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\staticwebassets.pack.json
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\scopedcss\bundle\AlgorithmsInspector.styles.css
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\Algorith.2130A3CF.Up2Date
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.dll
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\refint\AlgorithmsInspector.dll
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.pdb
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\AlgorithmsInspector.genruntimeconfig.cache
 C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsInspector\obj\Debug\net8.0-windows\ref\AlgorithmsInspector.dll

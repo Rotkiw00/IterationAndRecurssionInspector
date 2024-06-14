@@ -1,8 +1,5 @@
-<h3>Algorytm Quicksort. Rekurencyjnie vs. Iteracyjnie. Element rozdzielaj¹cy: œrodkowy</h3>
+<h3>Algorytm Quicksort. Rekurencyjnie vs. Iteracyjnie.</h3>
 <Chart Config="_config1" @ref="_chart1"></Chart>
-<br />
-<h3>Algorytm Quicksort. Rekurencyjnie vs. Iteracyjnie. Element rozdzielaj¹cy: skrajny</h3>
-<Chart Config="_config2" @ref="_chart2"></Chart>
 
 @code {
     protected override async Task OnInitializedAsync()
@@ -27,49 +24,13 @@
         _config1.Data.Datasets.Add(new LineDataset()
             {
                 Label = "Rekurencyjnie",
-                Data = LineDataRecursion_1,
-                BorderColor = "red",
-                Tension = 0.1M,
-                Fill = true,
-                PointRadius = 2,
-            });
-        _config1.Data.Datasets.Add(new LineDataset()
-            {
-                Label = "Iteracyjnie",
-                Data = LineDataIteration_1,
-                BorderColor = "green",
-                Tension = 0.1M,
-                Fill = true,
-                PointRadius = 2,
-            });
-
-        _config2 = new LineChartConfig()
-            {
-                Options = new Options()
-                {
-                    RegisterDataLabels = true,
-                    Plugins = new Plugins()
-                    {
-                        DataLabels = new DataLabels()
-                        {
-                            Align = DatalabelsAlign.Start,
-                            Anchor = DatalabelsAnchor.Start,
-                        }
-                    }
-                }
-            };
-
-        _config2.Data.Labels = LineChartLabels;
-        _config2.Data.Datasets.Add(new LineDataset()
-            {
-                Label = "Rekurencyjnie",
                 Data = LineDataRecursion_2,
                 BorderColor = "red",
                 Tension = 0.1M,
                 Fill = true,
-                PointRadius = 2,
+                PointRadius = 4,
             });
-        _config2.Data.Datasets.Add(new LineDataset()
+        _config1.Data.Datasets.Add(new LineDataset()
             {
                 Label = "Iteracyjnie",
                 Data = LineDataIteration_2,
@@ -80,3 +41,4 @@
             });
     }
 }
+

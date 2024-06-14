@@ -8,9 +8,6 @@ namespace AlgorithmsInspector.AlgorithmsCharts
         private LineChartConfig _config1;
         private Chart _chart1;
 
-        private LineChartConfig _config2;
-        private Chart _chart2;
-
         public List<string> LineChartLabels =
         [
             "n = 5",
@@ -24,31 +21,6 @@ namespace AlgorithmsInspector.AlgorithmsCharts
             "n = 100000",
             "n = 500000",
             "n = 1000000"
-        ];
-        // PIVOT => ŚRODKOWY
-        public List<decimal?> LineDataIteration_1 =
-        [
-            0.0007735m,
-            0.0000018m,
-            0.0000032m,
-            0.000007m,
-            0.0001419m,
-            0.0024621m,
-            0.0044729m,
-            0.0049822m,
-            0.0109587m,
-            0.0515508m,
-            0.0996365m
-        ];
-        public List<decimal?> LineDataRecursion_1 =
-        [
-            0.0001156m,
-            0.0000003m,
-            0.0000054m,
-            0.0000156m,
-            0.0002369m,
-            0.0210713m,
-            0.0814395m
         ];
         // PIVOT => SKRAJNY
         public List<decimal?> LineDataIteration_2 =

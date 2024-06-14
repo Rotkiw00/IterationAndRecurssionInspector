@@ -22,5 +22,18 @@
         {
             Console.WriteLine(string.Join(" ", data));
         }
+
+        public static int[] CopyTableToAnother(int[] arr)
+        {
+            int[] tableToReturn = new int[arr.Length];
+            for (int i = 0; i < arr.Length; i++)
+            {
+                tableToReturn[i] = arr[i];
+            }
+            return tableToReturn;
+        }
     }
 }
+
+
+
