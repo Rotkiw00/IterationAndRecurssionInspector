@@ -235,7 +235,14 @@ namespace AlgorithmsInspector
         #endregion
 
         #region TOWER OF HANOI
+        private void SolveTowerOfHanoiButton_Click(object sender, RoutedEventArgs e)
+        {
 
+        }
+        private void ClearHanoiOutputsButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
         #endregion
 
         #region  -- UTILS METHODS --
@@ -258,6 +265,7 @@ namespace AlgorithmsInspector
         {
             controlTextBox.Text = string.Empty;
         }
+
         #endregion
     }
 }

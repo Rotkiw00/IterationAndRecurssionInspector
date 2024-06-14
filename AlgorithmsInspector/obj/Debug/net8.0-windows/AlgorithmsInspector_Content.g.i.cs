@@ -14,6 +14,7 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("wwwroot/index.html")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("algorithmscharts/fibonacciblazorchart.razor")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("algorithmscharts/quicksortblazorchart.razor")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("algorithmscharts/towersofhanoichart.razor")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("_imports.razor")]
 
 
