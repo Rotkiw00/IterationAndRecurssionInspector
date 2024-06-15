@@ -1,0 +1,12 @@
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\bin\Release\net8.0\AlgorithmsLibrary.deps.json
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\bin\Release\net8.0\AlgorithmsLibrary.dll
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\bin\Release\net8.0\AlgorithmsLibrary.pdb
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.AssemblyInfoInputs.cache
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.AssemblyInfo.cs
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.sourcelink.json
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.dll
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\refint\AlgorithmsLibrary.dll
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\AlgorithmsLibrary.pdb
+C:\Users\Wiktor Kalaga\Documents\Studia\KJP\IterationAndRecurssionInspector\AlgorithmsLibrary\obj\Release\net8.0\ref\AlgorithmsLibrary.dll
