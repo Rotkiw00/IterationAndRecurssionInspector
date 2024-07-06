@@ -7,6 +7,9 @@ ConsoleAlgorithms/obj
 AlgorithmsLibrary/bin
 AlgorithmsLibrary/obj
 
+AlgorithmsLibrary.Tests/bin
+AlgorithmsLibrary.Tests/obj
+
 *.vs
 *.dll
 *.sln
